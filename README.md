@@ -8,5 +8,6 @@ The files and folders are arranged as following:
 2. original_data: Contain original data used for analysis
 3. py_process: Script to run analysis steps in Python
     - fg: all figures saved from running script
-    - preprocessed_data: the data after processing. This is a back up file for the preprocessed data.
+    - input: the data after processing which is run through model.
+    - output: final submission
     
