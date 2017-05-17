@@ -1,7 +1,6 @@
 # Predicting dog outcomes
 
-This is a project for practical use of multinomial regression. The dataset is downloaded from open-source website.
-
+This is a project with Prof. Yeolib Kim
 The files and folders are arranged as following:
 
 1. article: Contain all reference papers
@@ -10,4 +9,4 @@ The files and folders are arranged as following:
     - fg: all figures saved from running script
     - input: the data after processing which is run through model.
     - output: final submission
-    
+4. r: Script to check the result
